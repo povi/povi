@@ -1,16 +1,17 @@
-## Hi there 👋
+My work on [Grandine](https://github.com/grandinetech/grandine), an Ethereum consensus client, is supported in part by [Protocol Guild](https://www.protocolguild.org): a membership based org of ~190 Ethereum protocol maintainers. Thank you to our funders for their support!
 
-<!--
-**povi/povi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐ = [1% pledge](https://www.protocolguild.org/blog/20240130-protocol-guild-pledge). Last updated October 15, 2026 - see the full data on the [Dune dashboard](https://dune.com/protocolguild/protocol-guild), or learn how to [donate](https://protocol-guild.readthedocs.io/en/latest/03-donate.html).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr><th></th><th colspan="2" align="center">Funding&nbsp;Distributed</th><th colspan="2" align="center">Funding&nbsp;Remaining</th><th colspan="3" align="center">Recent&nbsp;Donations</th></tr>
+<tr><td align="right">1</td><td align="left">⭐&nbsp;<a href="https://eigenfoundation.org">EigenLayer</a></td><td align="right">$6.3M</td><td align="left">⭐&nbsp;<a href="https://ether.fi">Ether.fi</a></td><td align="right">$3.0M</td><td align="left"><a href="https://etherscan.io/address/0xa0350575a5fbe6df3343038e138dee3f5beb2fff">wagumi.eth</a></td><td align="left">Sep&nbsp;18</td><td align="right">$1.6k</td></tr>
+<tr><td align="right">2</td><td align="left">⭐&nbsp;<a href="https://ether.fi">Ether.fi</a></td><td align="right">$6.3M</td><td align="left"><a href="https://layerzero.foundation">LayerZero</a></td><td align="right">$2.7M</td><td align="left">⭐&nbsp;<a href="https://alignedlayer.com">Aligned&nbsp;Layer</a></td><td align="left">Aug&nbsp;21</td><td align="right">$2.8M</td></tr>
+<tr><td align="right">3</td><td align="left">⭐&nbsp;<a href="https://taiko.xyz">Taiko&nbsp;Labs</a></td><td align="right">$4.3M</td><td align="left">⭐&nbsp;<a href="https://eigenfoundation.org">EigenLayer</a></td><td align="right">$2.3M</td><td align="left"><a href="https://arbiscan.io/address/0x96bb0adb414d5350f435e52f94946b6c7a0760a9">Cosmic&nbsp;Signature</a></td><td align="left">Aug&nbsp;12</td><td align="right">$5.9k</td></tr>
+<tr><td align="right">4</td><td align="left"><a href="https://arbitrum.foundation">Arbitrum&nbsp;DAO</a></td><td align="right">$3.7M</td><td align="left">⭐&nbsp;<a href="https://aztec.network">Aztec</a></td><td align="right">$1.6M</td><td align="left"><a href="https://basescan.org/address/0x969e9ef6d9b4bc56f4733a93bc784b130e07f4f4">0x969e...f4f4</a></td><td align="left">Jul&nbsp;18</td><td align="right">$124</td></tr>
+<tr><td align="right">5</td><td align="left"><a href="https://layerzero.foundation">LayerZero</a></td><td align="right">$3.6M</td><td align="left">⭐&nbsp;<a href="https://alignedlayer.com">Aligned&nbsp;Layer</a></td><td align="right">$0.7M</td><td align="left"><a href="https://etherscan.io/address/0x67ee59ff96ede98f57e8f909005a63cefdaffde1">0x67ee...fde1</a></td><td align="left">Jul&nbsp;15</td><td align="right">$315</td></tr>
+<tr><td align="right">6</td><td align="left"><a href="https://lido.fi">Lido&nbsp;DAO</a></td><td align="right">$3.4M</td><td align="left"><a href="https://www.starknet.io">Starknet</a></td><td align="right">$0.4M</td><td align="left"><a href="https://octant.app">Octant</a></td><td align="left">Jul&nbsp;2</td><td align="right">$5.7k</td></tr>
+<tr><td align="right">7</td><td align="left"><a href="https://uniswap.org">Uniswap&nbsp;DAO</a></td><td align="right">$3.0M</td><td align="left">⭐&nbsp;<a href="https://taiko.xyz">Taiko&nbsp;Labs</a></td><td align="right">$0.3M</td><td align="left"><a href="https://etherscan.io/address/0x512a245705ca0c9c19a47de66c17c21fb47d3d66">0x512a...3d66</a></td><td align="left">Jun&nbsp;27</td><td align="right">$836</td></tr>
+<tr><td align="right">8</td><td align="left"><a href="https://ens.domains">ENS&nbsp;DAO</a></td><td align="right">$2.8M</td><td align="left"><a href="https://octant.app">Octant</a></td><td align="right">$0.2M</td><td align="left"><a href="https://etherscan.io/address/0x5256d6d94ed14667fa1661a99f5b142b1e051b8e">TheDAO</a></td><td align="left">Jun&nbsp;5</td><td align="right">$13.6k</td></tr>
+<tr><td align="right">9</td><td align="left"><a href="https://molochdao.com">Moloch&nbsp;DAO</a></td><td align="right">$0.9M</td><td align="left"><a href="https://stateful.mirror.xyz/DjDK5IqoZOtel8t2pn_DE0WLQEdNXLIEMuD0bNZKR8M">Delivery&nbsp;at&nbsp;Dawn</a></td><td align="right">$0.1M</td><td align="left"><a href="https://etherscan.io/address/0xc64783f0be60a81a716535287539a694403183ba">0xc647...83ba</a></td><td align="left">May&nbsp;27</td><td align="right">$1.3k</td></tr>
+<tr><td align="right">10</td><td align="left"><a href="https://nouns.wtf">Nouns&nbsp;DAO</a></td><td align="right">$0.8M</td><td align="left">⭐&nbsp;<a href="https://www.puffer.fi">Puffer</a></td><td align="right">$0.1M</td><td align="left"><a href="https://etherscan.io/address/0x799d0db297dc1b5d114f3562c1ec30c9f7fdae39">0x799d...ae39</a></td><td align="left">May&nbsp;26</td><td align="right">$1.1k</td></tr>
+</table>
